@@ -73,10 +73,23 @@ TEM-UM = Associação
 
 É-UM = Herança(Generalização)
 
+
+
+O aluno tem uma turma!
+
+O professor tem uma Disciplina!
+
+O professor tem uma turma!
+
+A turma tem uma Disciplina!
+
+
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/017c66bd-c794-40c6-ad5c-a5ef35e9a4ae)
 
 
 
+
+                   então temos entre essas classes só temos associações nesse momento
 
 
 
