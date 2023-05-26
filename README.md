@@ -87,13 +87,13 @@ O professor tem uma turma!
 
 A turma tem uma Disciplina!
 
-          entre essas classes só temos associações nesse momento
+         
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/017c66bd-c794-40c6-ad5c-a5ef35e9a4ae)
 
 
 
-
+                    entre nessas classes só temos associações nesse momento
                     
 
 
