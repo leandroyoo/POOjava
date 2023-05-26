@@ -197,7 +197,19 @@ os metodos e atributos
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/bb923b0d-b850-40fb-9daf-264e81bff18e)
 
+Conceitos de Herança
+---
 
+a Classe aluno herda de pessoas então teremos assim no codigo
+
+o extends ![image](https://github.com/leandroyoo/POOjava/assets/94478634/7be01361-2233-408e-9498-d087a08fe83a)
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/9f60b7fe-6b48-4673-8af0-180c7762c90d)
+
+e assim acontece em Professor 
+
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/f223dfc1-539f-4643-8860-925c84237890)
 
 
 
