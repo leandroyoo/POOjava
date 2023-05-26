@@ -117,8 +117,11 @@ as subclasses professor e aluno herdam já dessa classe pessoas os atributos (no
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/5fc6bd24-5e41-44aa-9dab-9104a8f167a4)
 
 
-
-
+                    se há atributos especificos eu coloco na subclasse se atributos comuns eu coloco na superclasse
+                    
+                    
+                    
+  
 
 
 
