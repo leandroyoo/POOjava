@@ -226,13 +226,12 @@ segundo diagrama:
 
                     e a classe Aluno está em uma turma 
 
-turma pode ter varios alunos então vou pegar varios objetos da classe
-aluno e colocar na classe turma
+A turma pode ter varios alunos:
+
+                    então vou pegar varios objetos(variavel) da classe aluno e colocar na classe turma
 
 
-se aluno tem uma turma 
-
-então vou colocar um objeto da classe turma;
+se aluno tem uma turma então vou colocar um objeto(variavel) da classe turma;
 
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/a39776ae-f8ca-400f-8487-5f39f049dadb)
