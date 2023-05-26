@@ -217,7 +217,10 @@ agora vamos aos relacionamentos
 ---
 aluno e turma 
 
-segundo diagrama 
+segundo diagrama:
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/57e0ec18-6ef9-41f7-af18-91fbd2239b1b)
+
 
 a classe turma  tem q conter no minimo um aluno
 
