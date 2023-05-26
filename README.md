@@ -81,16 +81,21 @@ TEM-UM = Associação
 
 O aluno tem uma turma!
 
+
+         
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/017c66bd-c794-40c6-ad5c-a5ef35e9a4ae)
+
+então vamos completando todos os demais 
+
 O professor tem uma Disciplina!
 
 O professor tem uma turma!
 
 A turma tem uma Disciplina!
 
-         
 
-![image](https://github.com/leandroyoo/POOjava/assets/94478634/017c66bd-c794-40c6-ad5c-a5ef35e9a4ae)
-
+então podemos concluir que:
 
 
                     entre nessas classes só temos associações nesse momento
