@@ -224,15 +224,14 @@ segundo diagrama:
 
                     a classe turma  tem q conter no minimo um aluno e a classe Aluno está em uma turma 
                     
-Aluno tem uma turma ----> então vou colocar em aluno um  objeto(variavel) da classe turma;
+Aluno tem uma turma: 
 
-
-
+                     então colocamos dentro de aluno um objeto(variavel) da classe turma 
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/a39776ae-f8ca-400f-8487-5f39f049dadb)
 
 
-                    então colocamos dentro de aluno um objeto(variavel) da classe turma 
+                   
                     
                     
                    
