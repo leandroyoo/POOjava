@@ -89,7 +89,7 @@ A turma tem uma Disciplina!
 
 
 
-                   então temos entre essas classes só temos associações nesse momento
+                    entre essas classes só temos associações nesse momento
 
 
 
