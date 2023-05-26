@@ -127,11 +127,30 @@ Multiplicidade:  quantidade de objetos de um lado que se associam com objetos do
                 
                     
  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/57dbe2c4-dd7d-4750-be0e-74722cc74317)
+ 
+ Implementando o Código
+ ---
                    
-                    
-  
-  
-  
+ observe que as pastas primeiramente eu fiz uma estrutura  em que 
+ 
+ teremos uma pasta chamada escola que vai receber as classes  
+ 
+ ![image](https://github.com/leandroyoo/POOjava/assets/94478634/466b8719-ea15-4f47-9c0e-884b0ae90cb2)
+
+
+Classes
+---
+criaremos então as Classes 
+
+Pessoa
+- nome 
+- matricula 
+
+
+  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/7b7a3819-3ae3-4b68-8c33-3157c91cafd9)
+
+
+Aluno
 
 
 
