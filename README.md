@@ -240,8 +240,8 @@ Aluno tem uma turma ----> então vou colocar em aluno um  objeto(variavel) da cl
 A turma pode ter varios alunos:
 
                     então vou pegar varios uma lista da classe aluno e colocar na classe turma
-                    
-                    ![image](https://github.com/leandroyoo/POOjava/assets/94478634/fcfe9c36-cea1-40eb-bcfa-a270f9198f38)
+                  
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/fcfe9c36-cea1-40eb-bcfa-a270f9198f38)
 
 
  
