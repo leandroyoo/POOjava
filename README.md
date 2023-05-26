@@ -15,6 +15,9 @@ digamos que temos uma Classe jogador e nessa clase vamos ter seus respectivos at
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/259de015-4976-4da6-bed3-ba6d9dd1a592)
 
+Classe x Objeto
+
+Quando criamos um objeto ele é uma instancia da classe
 
 então dado essa Classe jogador vamos ter os objetos 
 
@@ -41,9 +44,45 @@ Diagrama de Classes
 ----
 UML : linguagem de Modelagem Unificada
 
-Classe x Objeto
 
-Quando criamos um objeto ele é uma instancia da classe
+
+temos então na modelagem 4 Classes 
+
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/fbc901d0-2d9e-4e36-8103-089b14b81d59)
+
+
+
+
+Relacionamento das Classes 
+---
+
+os relacionamentos são de dois tipos 
+
+então fazemos essas perguntas 
+
+TEM-UM ?
+
+É-UM ?
+
+
+dai temos 
+
+TEM-UM = Associação
+
+
+É-UM = Herança(Generalização)
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/017c66bd-c794-40c6-ad5c-a5ef35e9a4ae)
+
+
+
+
+
+
+
+
+
 
 
 
