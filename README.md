@@ -57,7 +57,11 @@ temos então na modelagem 4 Classes
 Relacionamento das Classes 
 ---
 
-os relacionamentos são de dois tipos 
+os relacionamentos são de dois tipos :
+
+          Associação
+
+          Herança(Generalização)
 
 então fazemos essas perguntas 
 
