@@ -102,6 +102,20 @@ então podemos concluir que:
                     
 
 
+Herança
+---
+
+
+A herança podemos associar a herança genetica
+
+quando herdamos algumas coisa nós temos a herança das caracteristicas e dos comportamentos 
+
+temos a classe mãe pessoa e dessa classe tem seus respctivos atributos (nome, matricula)
+
+as subclasses professor e aluno herdam já dessa classe pessoas os atributos (nome, matricula)
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/5fc6bd24-5e41-44aa-9dab-9104a8f167a4)
+
 
 
 
