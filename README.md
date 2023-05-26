@@ -121,8 +121,10 @@ as subclasses professor e aluno herdam já dessa classe pessoas os atributos (no
                     
   toda associação tem uma multiplicidade
 
-Multiplicidade: quantidade de objetos de um lado que se associam com objetos do outro lado
----                  
+Multiplicidade 
+---  
+Multiplicidade:  quantidade de objetos de um lado que se associam com objetos do outro lado
+                
                     
  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/57dbe2c4-dd7d-4750-be0e-74722cc74317)
                    
