@@ -142,19 +142,52 @@ Classes
 ---
 criaremos então as Classes 
 
-Pessoa
-- nome 
-- matricula 
-
-
+classe Pessoa
+--
   ![image](https://github.com/leandroyoo/POOjava/assets/94478634/7b7a3819-3ae3-4b68-8c33-3157c91cafd9)
 
 
-Aluno
+
+
+importando o tipo date (tipo primitivo);
+---
+Quando vamos importar o tipo primitivo date precisamos fazer uma importação 
+
+observe 
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/34d4b675-25ce-4ef5-93f4-acf20a326c76)
+
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/79cc495a-a717-4e87-89c9-f8448e26f8c8)
 
 
 
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/d089511f-10b4-4e08-82dc-5de27b77878d)
 
+
+
+continuando a importar as classes: 
+
+classe Aluno 
+---
+
+void quer dizer que nao faz nada 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/be151d7e-dacd-434c-853c-6ee1d23051a1)
+
+
+classe Professor 
+---
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/6779f071-1be5-43e5-917a-c369031a9ad7)
+
+classe Disciplina 
+--
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/ce6c5e43-6b55-4fd4-9199-1085bfad0df4)
+
+
+classe Turma
+--
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/b88ea46e-5cc6-40b8-b86b-37a8ffc0e924)
 
 
 
