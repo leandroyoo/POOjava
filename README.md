@@ -190,6 +190,13 @@ classe Turma
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/b88ea46e-5cc6-40b8-b86b-37a8ffc0e924)
 
 
+compare com o código 
+--
+compare no diagrama 
+os metodos e atributos
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/bb923b0d-b850-40fb-9daf-264e81bff18e)
+
 
 
 
