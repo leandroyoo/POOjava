@@ -508,7 +508,10 @@ agora vamos tornar private os dados
 
 agora vamos criar os metodos get set 
 
-só que agora vamos selecionar apenas oqs que nao são arrays ![image](https://github.com/leandroyoo/POOjava/assets/94478634/52b2ded5-dc1d-4a97-a2a6-87897b03623a)
+na classe Turma
+
+só que agora vamos selecionar apenas oqs que nao são arrays 
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/52b2ded5-dc1d-4a97-a2a6-87897b03623a)
 
 então vamos ter algo similar a isso 
 
@@ -517,7 +520,7 @@ então vamos ter algo similar a isso
 
 agora que criamos as conexões com os metodos get e set 
 
-podemos criar uma turma
+podemos então na classe de associação vamos criar uma turma
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/b4e63bc2-c1a2-4f8e-9c9f-77f836de39be)
 
@@ -537,8 +540,9 @@ representação
 então vamos pegar o obejeto aluno e associar a turma 
 
 associando um objeto ao outro
+---
 
-dessa forma eu consigo acessar todas as informações daquele objeto
+Dessa forma eu consigo acessar todas as informações daquele objeto
 
 associando utilizando uma referencia
 
