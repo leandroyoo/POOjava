@@ -285,6 +285,23 @@ então dentro de professores vamos ter uma lista de turmas
 
 
 
+uma disciplina pode ser ministrada em quantas turmas ? várias !
+
+então dentro de disciplina vamos ter uma lista de turmas 
+
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/d9e66d83-f04c-48e8-8b14-0035e3595216)
+
+
+
+uma turma pode ter quantas disciplinas ? várias!
+
+então dentro de turma vamos ter uma lista de disciplinas
+
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/d0552d0e-04ea-4929-96fc-03fdfa3a091e)
+
+
 
 
 
