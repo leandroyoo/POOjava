@@ -436,7 +436,7 @@ observando o objeto instanciado
 Protegendo um valor
 ---
 
-digamos que eu nao quero aceitar carga horaria negativa [image](https://github.com/leandroyoo/POOjava/assets/94478634/5086a047-9a7e-48e0-b372-57bf0d68c96c)
+digamos que eu nao quero aceitar carga horaria negativa 
 
 ai quando tivermos uma inserção de um objeto com o valor negativo
 
