@@ -331,6 +331,10 @@ eu tenho que ir na classe disciplina e declarar suas variaveis como public ![ima
 
 
 
+ai então o erro desaparece
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/0700d5fc-dd5b-447d-90aa-11bfff58ea1a)
+
 
 
 
