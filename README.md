@@ -528,6 +528,44 @@ agora vamos criar os metodos get set
 
 só que agora vamos selecionar apenas oqs que nao são arrays ![image](https://github.com/leandroyoo/POOjava/assets/94478634/52b2ded5-dc1d-4a97-a2a6-87897b03623a)
 
+então vamos ter algo similar a isso 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/4d0f5e35-4c55-470f-b897-6e848c8fb374)
+
+
+agora que criamos as conexões com os metodos get e set 
+
+podemos criar uma turma
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/b4e63bc2-c1a2-4f8e-9c9f-77f836de39be)
+
+e também vamos criar um aluno 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/3d46d321-9cdb-4828-b1d4-bed7ece2c6ba)
+
+mas agora observe que em aluno temos um espaçozinho para armazenar a turma 
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/43873159-9ad3-4544-bd7c-74dd9b321cd3)
+
+
+representação
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/7d132b05-1dbe-4313-8192-8df1d5c6bd0d)
+
+
+então vamos pegar o obejeto aluno e associar a turma 
+
+associando um objeto ao outro
+
+dessa forma eu consigo acessar todas as informações daquele objeto
+
+associando utilizando uma referencia
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/480e7d16-4d0c-42aa-b669-368332dc3e43)
+
+
+
+associando utilizando uma referencia ![image](https://github.com/leandroyoo/POOjava/assets/94478634/d1e3d958-89a4-4577-a8c1-811a46ab6f15)
+
 
 
 
