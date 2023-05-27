@@ -401,7 +401,7 @@ e imprimindo os dados ![image](https://github.com/leandroyoo/POOjava/assets/9447
 
 vamos ter esse resultado  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/a47ecccc-7754-49cf-880b-9dbffd28ce9f)
 
-Protegendo os dados 
+Método SET
 ---
 
 tá bom Leandro mas a ideia dos encapsulamento nao é proteger os dados ??? então porque continuam sendo aceitos ???
@@ -433,12 +433,18 @@ observando o objeto instanciado
       no caso o objeto disciplina1 vai usar o setNome e pegar "esse" atributo =  this.nome  
       e vai jogar na variavel em nome = "matematica" 
 
+Protegendo um valor
+---
+
+digamos que eu nao quero aceitar carga horaria negativa [image](https://github.com/leandroyoo/POOjava/assets/94478634/5086a047-9a7e-48e0-b372-57bf0d68c96c)
+
+ai quando tivermos uma inserção de um objeto com o valor negativo
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/1132d725-4f0e-4969-b90a-88becb6562f2)
 
 
 
-
-
-
+ele transformará em 0 observe ![image](https://github.com/leandroyoo/POOjava/assets/94478634/5d96f5e7-3846-45e3-b741-628be766c65d)
 
 
 
