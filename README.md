@@ -735,8 +735,8 @@ representacao
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/9040f995-5e75-4a17-b48e-3dc28eb8b943)
 
-          e assim concluimos os dois lados da associação bidirecional 
-           uma utilizando o get set e outra usando o métodos criados
+                              e assim concluimos os dois lados da associação bidirecional 
+                              uma utilizando o get set e outra usando o métodos criados
 
 
 
