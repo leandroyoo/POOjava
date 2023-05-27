@@ -725,9 +725,9 @@ temos o objeto aluno
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/ad961ac4-2a58-4f1a-a46c-d98eb661cb18)
 
-quando inserimos o objeto(aluno1) sabemos que ele ja faz parte do objeto(turma1) ![image](https://github.com/leandroyoo/POOjava/assets/94478634/389faa1e-2eab-43ce-9b39-e5df1695ce5c)
+o objeto(aluno1) setamos nele o objeto(turma1) ![image](https://github.com/leandroyoo/POOjava/assets/94478634/389faa1e-2eab-43ce-9b39-e5df1695ce5c)
 
-mas na turma1 precisamos apontar a associação pelo o objeto(aluno1)  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/f7347eeb-4479-4276-ae8f-e38c9eee8eb9)
+e no objeto turma1 adicionamos no array usando metodo o objeto(aluno1)  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/f7347eeb-4479-4276-ae8f-e38c9eee8eb9)
 
 e assim funciona também para o objeto(aluno2)
 
