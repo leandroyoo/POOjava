@@ -418,7 +418,6 @@ e setNome recebe o parametro(String nome) ![image](https://github.com/leandroyoo
 
 mas que é o set nome ?? 
 
-setNome(String nome) é como se fosse uma função
 
 é esse ![image](https://github.com/leandroyoo/POOjava/assets/94478634/a8cdbecd-e2be-4598-ab36-f2337d448f53)
 
