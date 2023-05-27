@@ -413,7 +413,7 @@ vamos entender o código
 
 "esse" . objeto que chamou o setNome  vai ter o atributo nome
 
-e setNome recebe o parametro ![image](https://github.com/leandroyoo/POOjava/assets/94478634/18e1fca6-cbcc-48ff-a0f6-0677d774b5af)
+e setNome recebe o parametro(String nome) ![image](https://github.com/leandroyoo/POOjava/assets/94478634/18e1fca6-cbcc-48ff-a0f6-0677d774b5af)
 
 
 mas que é o set nome ?? 
