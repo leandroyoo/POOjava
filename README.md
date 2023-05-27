@@ -438,7 +438,7 @@ Protegendo um valor
 
 digamos que eu nao quero aceitar carga horaria negativa 
 
-ai quando tivermos uma inserção de um objeto com o valor negativo
+ai quando tivermos uma inserção de um atributo com o valor negativo
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/1132d725-4f0e-4969-b90a-88becb6562f2)
 
