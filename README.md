@@ -754,7 +754,8 @@ e depois vamos imprimir
 
 observe ![image](https://github.com/leandroyoo/POOjava/assets/94478634/0055e9c5-be14-4a65-b518-55d269dca0b6)
 
-ele acessa em turma e pega o nome dos alunos 
+ele acessa em turma e pega os alunos e seus repectivos nomes 
+e pela variavel no metodo aluno ele vai percorrendo todo o array
 
 
 
