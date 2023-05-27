@@ -511,6 +511,7 @@ agora vamos criar os metodos get set
 na classe Turma
 
 só que agora vamos selecionar apenas oqs que nao são arrays 
+
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/52b2ded5-dc1d-4a97-a2a6-87897b03623a)
 
 então vamos ter algo similar a isso 
@@ -529,6 +530,7 @@ e também vamos criar um aluno
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/3d46d321-9cdb-4828-b1d4-bed7ece2c6ba)
 
 mas agora observe que em aluno temos um espaçozinho para armazenar a turma 
+
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/43873159-9ad3-4544-bd7c-74dd9b321cd3)
 
 
