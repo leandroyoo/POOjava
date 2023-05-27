@@ -466,7 +466,7 @@ ele transformará em 0 observe ![image](https://github.com/leandroyoo/POOjava/as
 
 que seria o nulo no caso pois tecnicamente esse dado nao foi aceito no metodo
 
-Associação um para muitos
+Associação de Objetos: um para muitos
 ---
 Como eu associo um objeto com um objeto ?
 
@@ -476,6 +476,62 @@ Aluno e Turma
 
 
 Aluno 
+
+
+transformo os dados associados em private 
+
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/7fdbf27a-b6fc-40c4-bfd5-717933f791c6)
+
+
+
+crio os metodos get e set 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/eb66b988-8ba7-499a-917e-c6081f1bdf50)
+
+
+
+ai então vamos agora em Pessoas
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/6368623c-178b-4b99-a97f-ca3fca2304fe)
+
+
+
+e fazemos o mesmo procedimento de tornar private e criar os metodos get e set 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/4c108bdb-aa1b-49eb-b05c-acdc2b80ad64)
+
+
+Agora como colocamos uma turma dentro de um aluno ???
+
+
+vamos criar outra classe chamada associação para um ![image](https://github.com/leandroyoo/POOjava/assets/94478634/5202ed07-d771-4ec6-9cc2-7e99c9004eb3)
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/b681b32f-2df5-470f-8bc2-d886eab61b92)
+
+
+beleza agora vamos intanciar uma classe turma
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/f7551707-0865-42af-864c-e307c53449be)
+
+lá em turma vamos ter os seguintes dados 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/1c189959-9bd7-4e19-83bd-bfebc5d62766)
+
+
+agora vamos tornar private os dados
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/d6405c4e-523e-4c5b-a9f0-0c895463b4ff)
+
+
+agora vamos criar os metodos get set 
+só que agora vamos selecionar apenas oqs que nao são arrays ![image](https://github.com/leandroyoo/POOjava/assets/94478634/2971b128-0878-4630-afe3-c0d50c7f57b5)
+
+
+
+
+
+
 
 
 
