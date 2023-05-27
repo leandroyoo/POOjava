@@ -568,6 +568,23 @@ associando utilizando uma referencia ![image](https://github.com/leandroyoo/POOj
 
 
 
+então vamos criar pelo menos 2 alunos nessa turma
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/58379e17-b8a3-4f33-91d7-6fa4f03264b6)
+
+mas eai leandro qual a vantagem disso ????
+
+a vantagem é que teremos como pegar os dados especificos do objeto
+
+observe que nesse caso ao acessar a classe turma eu só queira pegar a sigla
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/03a530a5-c00b-4d05-83b8-aaf2cff82df0)
+
+
+olha o resultado que obteremos
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/8b2ded50-780c-4315-8f91-7a46cd382f65)
+
 
 
 
