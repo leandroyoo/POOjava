@@ -402,6 +402,34 @@ e imprimindo os dados ![image](https://github.com/leandroyoo/POOjava/assets/9447
 vamos ter esse resultado  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/a47ecccc-7754-49cf-880b-9dbffd28ce9f)
 
 
+tá bom Leandro mas a ideia dos encapsulamento nao é proteger os dados ??? então porque continuam sendo aceitos ???
 
+vamos entender o código 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/fea8ef15-314a-4840-97b0-6a9dd67f3df9)
+
+
+"esse" . objeto que chamou o setNome  vai ter o atributo nome
+
+e setNome recebe o parametro ![image](https://github.com/leandroyoo/POOjava/assets/94478634/18e1fca6-cbcc-48ff-a0f6-0677d774b5af)
+
+
+mas que é o set nome ?? 
+é esse ![image](https://github.com/leandroyoo/POOjava/assets/94478634/a8cdbecd-e2be-4598-ab36-f2337d448f53)
+
+
+
+então o atributo this.nome vai passar pra variavel o valor que pegou  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/7df2ce86-3c68-4fe8-8ed6-ec4c9d016507)
+
+                    no caso o objeto disciplina1 vai receber no seu atributo nome "matematica"
+
+
+
+
+ou seja:
+
+setNome(String nome) é como se fosse uma função 
+
+this.nome = nome; é como se fosse a referencia dos parametros dessa função passando pra variável do objeto disciplina1
 
 
