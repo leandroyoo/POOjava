@@ -684,8 +684,61 @@ então ficará assim a metodo pegar aluno
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/c8131404-7d77-4db7-9088-2337609d1380)
 
+criando a lista no código
+---
+
+a lista qunado está declarada assim ela esta nula ou seja nao foi criada ![image](https://github.com/leandroyoo/POOjava/assets/94478634/e327e5e2-fc74-49f1-ab92-be4f0db389cb)
 
 
+então nós temos que criar ela temos duas maneiras 
+
+maneira 1 
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/52b76479-957e-46c3-9a42-8e99d31b1f09)
+
+maneira 2 
+
+metodo construtor 
+
+implicitamente toda classe ja tem um metodo construtor vazio e nós podemos escrever
+
+ao invocar o metodo construtor ele cria uma lista
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/314bd157-15b7-4e53-b018-d8a60325f82d)
+
+
+agora como vamos associar 
+---
+
+desta maneira quando vamos criar nosso objeto aluno podemos associar ele ![image]![image](https://github.com/leandroyoo/POOjava/assets/94478634/3b7a99bb-450b-462c-a9d5-02abad01fc2c)
+
+pois ai já temos a associação bidirecional
+
+observe : 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/6abd2a98-9003-4a9e-80b8-858c864b228b)
+
+
+entendendo a associação bidirecional
+---
+
+temos o objeto aluno 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/ad961ac4-2a58-4f1a-a46c-d98eb661cb18)
+
+quando inserimos o objeto(aluno1) sabemos que ele ja faz parte do objeto(turma1) ![image](https://github.com/leandroyoo/POOjava/assets/94478634/389faa1e-2eab-43ce-9b39-e5df1695ce5c)
+
+mas na turma1 precisamos apontar a associação pelo o objeto(aluno1)  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/f7347eeb-4479-4276-ae8f-e38c9eee8eb9)
+
+e assim funciona também para o objeto(aluno2)
+
+representacao
+
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/21a37c9f-f72e-4515-820f-b9797d1cfecf)
+
+
+
+          e assim concluimos os dois lados da associação bidirecional 
 
 
 
