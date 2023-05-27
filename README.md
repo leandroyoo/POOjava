@@ -673,7 +673,7 @@ representação
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/02c15da0-3df0-4b51-87a0-e20c8843a25b)
 
 
-o metodo retorna um objeto da classe aluno eu tenho que apontar a "classe public Aluno" 
+o metodo retorna um objeto da classe aluno eu tenho que apontar a classe "public Aluno" 
 e vai receber a posição de valor inteiro do aluno na lista "pegarAluno(int posicao)" ![image](https://github.com/leandroyoo/POOjava/assets/94478634/26a17b68-e22f-40fd-b6e2-7959c3fce993)
 
 
