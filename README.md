@@ -465,5 +465,39 @@ que seria o nulo no caso pois tecnicamente esse dado nao foi aceito no metodo
 
 Associação um para muitos
 ---
+Como eu associo um objeto com um objeto ?
+
+Aluno e Turma 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/bce7df7d-1826-458f-a9f1-d31663a083b3)
+
+
+Aluno 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
