@@ -290,6 +290,8 @@ então dentro de turma vamos ter uma lista de disciplinas
 Criação de Objetos e Encapsulamento
 --
 
+Modificadores de Acesso:
+
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/9b42c33d-3d6d-4819-b9b8-38098ce15ece)
 
 
