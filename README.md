@@ -425,7 +425,11 @@ mas que é o set nome ??
 
 então o atributo this.nome vai passar pra variavel o valor que pegou  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/7df2ce86-3c68-4fe8-8ed6-ec4c9d016507)
 
-                    no caso o objeto disciplina1 vai receber no seu atributo nome "matematica"
+
+no caso o objeto disciplina1 vai usar o setNome e pegar "esse" atributo =  this.nome  e vai jogar na variavel em nome =  "matematica" ![image](https://github.com/leandroyoo/POOjava/assets/94478634/c10debd1-b23e-4fbb-8dda-f0f24e281560)
+
+
+
 
 
 
