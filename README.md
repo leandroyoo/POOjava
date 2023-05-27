@@ -441,6 +441,7 @@ mesma coisa será em cargahoraria
 
 
 mas digamos que eu nao quero aceitar carga horaria negativa eu adiciono um if 
+
 ou seja set a cargaHora se o valor for maior ou igual a 0 
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/058172c5-4cec-4935-aaa9-1efc5ae4de88)
