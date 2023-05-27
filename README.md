@@ -147,26 +147,6 @@ classe Pessoa
   ![image](https://github.com/leandroyoo/POOjava/assets/94478634/7b7a3819-3ae3-4b68-8c33-3157c91cafd9)
 
 
-
-
-importando o tipo date (tipo primitivo);
----
-Quando vamos importar o tipo primitivo date precisamos fazer uma importação 
-
-observe 
-![image](https://github.com/leandroyoo/POOjava/assets/94478634/34d4b675-25ce-4ef5-93f4-acf20a326c76)
-
-
-![image](https://github.com/leandroyoo/POOjava/assets/94478634/79cc495a-a717-4e87-89c9-f8448e26f8c8)
-
-
-
-![image](https://github.com/leandroyoo/POOjava/assets/94478634/d089511f-10b4-4e08-82dc-5de27b77878d)
-
-
-
-continuando a importar as classes: 
-
 classe Aluno 
 ---
 
