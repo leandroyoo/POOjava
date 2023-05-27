@@ -374,6 +374,33 @@ SET setar
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/4b8522cd-6ef5-4bca-9fcb-73dd28c6f124)
 
 
+então vamos em disciplina escolhemos o get e set
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/5a0ab9b8-05f4-4a82-8c22-685e35336f4b)
+
+
+selecionamos nome e cargahoraria
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/3fb8a1b2-6d6f-4c13-9512-86ab24e9abc2)
+
+teremos algo parecido com isso
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/07b4387f-6926-441e-9694-53dc71063499)
+
+
+agora em escolaPoo
+
+temos que declarar assim ![image](https://github.com/leandroyoo/POOjava/assets/94478634/1cbe4bfd-282a-419a-bcb9-fc5020c8dc8e)
+
+e teremos algo parecido com isso
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/3f26d6eb-9ac2-483e-b207-def0dcb7b99d)
+
+
+e imprimindo os dados ![image](https://github.com/leandroyoo/POOjava/assets/94478634/02ef0546-1004-4ff0-9956-886ccb92a8af)
+
+vamos ter esse resultado  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/a47ecccc-7754-49cf-880b-9dbffd28ce9f)
+
 
 
 
