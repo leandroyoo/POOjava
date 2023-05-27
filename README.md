@@ -461,3 +461,7 @@ ele transformará em 0 observe ![image](https://github.com/leandroyoo/POOjava/as
 
 que seria o nulo no caso pois tecnicamente esse dado nao foi aceito no metodo
 
+Associação um para muitos
+---
+
+
