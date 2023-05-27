@@ -612,8 +612,8 @@ fizemos apenas a associação do aluno TEM-TURMA
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/82d45d01-1bd0-4963-b671-5c9d9b61c4ce)
 
-
-
+Manipulando uma  lista
+---
 agora vamos associar o outro lado da associação a turma tem alunos ???
 
 para manipular a lista que tem na classe de Turma..![image](https://github.com/leandroyoo/POOjava/assets/94478634/82f8eebd-4c60-4c89-aa7b-bdf1082af267)
@@ -625,7 +625,7 @@ esses metodos permitirao
 
 
 metodo de adicionar um aluno na lita 
-
+---
 adicionarAluno vai receber (da Classe Aluno um objeto aluno) ![image](https://github.com/leandroyoo/POOjava/assets/94478634/35b737de-7519-45db-8e5d-bc2f58b0fbde)
 
 então eu vou add (adicionar) um aluno na lista de alunos 
@@ -636,7 +636,7 @@ então eu vou add (adicionar) um aluno na lista de alunos
 
 
 metodo  ver o tamanho (quatidade) de alunos na lista 
-
+---
 se eu quero saber o tamanho então ele vai me retornar um valor inteiro 
 
 O size() em Java é um método predefinido da classe ArrayList. É usado para calcular o número de objetos em um ArrayList .
@@ -646,7 +646,7 @@ O size() em Java é um método predefinido da classe ArrayList. É usado para ca
 
 
 metodo  excluir dum alunos da lista 
-
+---
 como eu quero saber qual aluno eu vou remover 
 tenho que passar o parametro do aluno ![image](https://github.com/leandroyoo/POOjava/assets/94478634/b0baee1e-915f-41be-a01e-35cb06149fb9)
  
@@ -659,7 +659,7 @@ O método remove() usa a implementação padrão do método equals() , do object
 
 
 metodo de pegar um aluno 
-
+---
 pegar um aluno eu posso informar qual a posição desse aluno 
 
 então para pegar eu informo qual posição que eu quero 
@@ -680,6 +680,10 @@ e como ele retorna um objeto da classe aluno eu tenho que apontar a classe publi
 
 usando o metodo get ele pega/retorna o valor da posicao ![image](https://github.com/leandroyoo/POOjava/assets/94478634/9208c7b9-8250-4e8e-9e4a-7d3f0991b8de)
 
+
+então ficará assim a metodo pegar aluno 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/c8131404-7d77-4db7-9088-2337609d1380)
 
 
 
