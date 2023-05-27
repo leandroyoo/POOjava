@@ -459,5 +459,5 @@ ai quando tivermos uma inserção de um atributo com o valor negativo
 
 ele transformará em 0 observe ![image](https://github.com/leandroyoo/POOjava/assets/94478634/5d96f5e7-3846-45e3-b741-628be766c65d)
 
-que seria o nulo no caso
+que seria o nulo no caso pois tecnicamente esse dado nao foi aceito no metodo
 
