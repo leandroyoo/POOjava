@@ -432,6 +432,8 @@ ou seja:
 
 setNome(String nome) é como se fosse uma função 
 
-this.nome = nome; é como se fosse a referencia dos parametros dessa função passando pra variável do objeto disciplina1
+this.nome = nome; 
+
+é como se fosse a referencia dos parametros dessa função passando pra variável do objeto disciplina1
 
 
