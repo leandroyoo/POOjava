@@ -525,7 +525,10 @@ agora vamos tornar private os dados
 
 
 agora vamos criar os metodos get set 
-só que agora vamos selecionar apenas oqs que nao são arrays ![image](https://github.com/leandroyoo/POOjava/assets/94478634/2971b128-0878-4630-afe3-c0d50c7f57b5)
+
+só que agora vamos selecionar apenas oqs que nao são arrays ![image](https://github.com/leandroyoo/POOjava/assets/94478634/52b2ded5-dc1d-4a97-a2a6-87897b03623a)
+
+
 
 
 
