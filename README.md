@@ -368,6 +368,9 @@ amiga feia que ajuda com a busca dos dados
 
 kkkkkkkk
 
+GET pegar
+SET setar
+
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/4b8522cd-6ef5-4bca-9fcb-73dd28c6f124)
 
 
