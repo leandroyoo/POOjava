@@ -317,7 +317,7 @@ vamos criar os objetos
 
 abrindo a classe EscolaPoo
 
-ao instanciar uma disciplina1 que será cadastrada como matematica na podemos esquecer 
+ao instanciar uma disciplina1 que será cadastrada como matematica nao podemos esquecer 
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/37487a5b-1e7d-4629-8d3e-e92f62ef1ef2)
 
@@ -325,7 +325,7 @@ ao instanciar uma disciplina1 que será cadastrada como matematica na podemos es
 eu tenho que ir na classe disciplina e declarar suas variaveis como public ![image](https://github.com/leandroyoo/POOjava/assets/94478634/d594dbb1-0bf7-44f3-b865-6f01df0750e3)
 
 
-
+declare as variaveis como public
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/64b85c8d-4f45-4411-b6dc-ed45f3d109a7)
 
@@ -333,9 +333,10 @@ eu tenho que ir na classe disciplina e declarar suas variaveis como public ![ima
 
 ai então o erro desaparece
 
-![image](https://github.com/leandroyoo/POOjava/assets/94478634/0700d5fc-dd5b-447d-90aa-11bfff58ea1a)
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/c392636d-be98-456d-b935-30cf5e6438d8)
 
 
+mas ai temos um problema!
 
 quando tentamos inserir um dado que esteja errado mas esteja no publico ela vai aceitar ![image](https://github.com/leandroyoo/POOjava/assets/94478634/3963a106-95dd-401f-a8a3-527ee6dd9f77)
 
