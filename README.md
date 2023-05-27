@@ -733,9 +733,7 @@ e assim funciona também para o objeto(aluno2)
 
 representacao
 
-
-![image](https://github.com/leandroyoo/POOjava/assets/94478634/e6108484-630d-4d3c-8505-dced12fbebe2)
-
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/9040f995-5e75-4a17-b48e-3dc28eb8b943)
 
           e assim concluimos os dois lados da associação bidirecional 
 
