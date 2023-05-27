@@ -435,7 +435,9 @@ observando o objeto instanciado
 
 Protegendo um valor
 ---
-mesma coisa será em cargahoraria ![image](https://github.com/leandroyoo/POOjava/assets/94478634/1e7e8ea8-a83f-4d13-a86f-5b19cfa00524)
+mesma coisa será em cargahoraria 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/1e7e8ea8-a83f-4d13-a86f-5b19cfa00524)
 
 
 mas digamos que eu nao quero aceitar carga horaria negativa eu adiciono um if 
