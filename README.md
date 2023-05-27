@@ -243,6 +243,58 @@ A turma pode ter varios alunos:
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/fcfe9c36-cea1-40eb-bcfa-a270f9198f38)
 
 
+Professor e Disciplina 
+
+
+professor pode ter quantas disciplinas ? várias
+
+então dentro de professor vai ter uma lista de disciplinas 
+
+
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/9a8d3e53-2da4-4165-9af9-d93f9bf25e42)
+
+
+
+uma disciplina pode ter quantos professores ? varios
+
+entao dentro de disciplina vamos ter uma lista de professores
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/2da34397-d38a-4416-99d8-35fe66842089)
+
  
-                    
+ 
+ 
+ 
+ Professor e Turma
+ 
+ Um professor pode lecionar em quantas turmas ? várias 
+ 
+ então dentro de turma vamos ter uma lista de professores
+ 
+ ![image](https://github.com/leandroyoo/POOjava/assets/94478634/66bf88b8-fa06-4bd3-9b38-adee8b4a361e)
+
+ 
+ 
+ 
+ Uma turma pode ter quantos professores ? vários!
+
+então dentro de professores vamos ter uma lista de turmas 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/d4aa02c1-b20d-4f81-9dc5-22bc3258f49f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
