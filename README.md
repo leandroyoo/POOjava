@@ -285,6 +285,9 @@ então dentro de professores vamos ter uma lista de turmas
 
 
 
+Disciplina e Turma 
+
+
 uma disciplina pode ser ministrada em quantas turmas ? várias !
 
 então dentro de disciplina vamos ter uma lista de turmas 
