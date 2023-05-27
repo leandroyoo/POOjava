@@ -401,6 +401,8 @@ e imprimindo os dados ![image](https://github.com/leandroyoo/POOjava/assets/9447
 
 vamos ter esse resultado  ![image](https://github.com/leandroyoo/POOjava/assets/94478634/a47ecccc-7754-49cf-880b-9dbffd28ce9f)
 
+Protegendo os dados 
+---
 
 tá bom Leandro mas a ideia dos encapsulamento nao é proteger os dados ??? então porque continuam sendo aceitos ???
 
