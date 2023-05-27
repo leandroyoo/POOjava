@@ -436,6 +436,8 @@ Protegendo um valor
 
 tá bom Leandro mas a ideia dos encapsulamento nao é proteger os dados ??? então porque continuam sendo aceitos ???
 
+vamos entender o código 
+
 
 mesma coisa será em cargahoraria 
 
