@@ -307,9 +307,27 @@ então dentro de turma vamos ter uma lista de disciplinas
 
 
 
+Criação de Objetos 
+--
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/9b42c33d-3d6d-4819-b9b8-38098ce15ece)
+
+
+vamos criar os objetos 
+
+abrindo a classe EscolaPoo
+
+ao instanciar uma disciplina1 que será cadastrada como matematica na podemos esquecer 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/37487a5b-1e7d-4629-8d3e-e92f62ef1ef2)
+
+
+eu tenho que ir na classe disciplina e declarar suas variaveis como public ![image](https://github.com/leandroyoo/POOjava/assets/94478634/d594dbb1-0bf7-44f3-b865-6f01df0750e3)
 
 
 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/64b85c8d-4f45-4411-b6dc-ed45f3d109a7)
 
 
 
