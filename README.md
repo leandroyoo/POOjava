@@ -578,6 +578,9 @@ olha o resultado que obteremos
 Associação de Objetos: um para muitos: um pra muitos
 ---
 
+representação 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/263dc706-00f9-46b6-ade9-b4cfc95e6e72)
 
 
 
