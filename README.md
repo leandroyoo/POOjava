@@ -431,7 +431,7 @@ observando o objeto instanciado
                     
                     
       no caso o objeto disciplina1 vai usar o setNome e pegar "esse" atributo =  this.nome  
-      e vai jogar na variavel em nome que vai receber o valor  "matematica" 
+      e vai jogar na variavel em nome = "matematica" 
 
 
 
