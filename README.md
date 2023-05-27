@@ -404,8 +404,6 @@ vamos ter esse resultado  ![image](https://github.com/leandroyoo/POOjava/assets/
 Método SET
 ---
 
-tá bom Leandro mas a ideia dos encapsulamento nao é proteger os dados ??? então porque continuam sendo aceitos ???
-
 vamos entender o código 
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/fea8ef15-314a-4840-97b0-6a9dd67f3df9)
@@ -435,6 +433,10 @@ observando o objeto instanciado
 
 Protegendo um valor
 ---
+
+tá bom Leandro mas a ideia dos encapsulamento nao é proteger os dados ??? então porque continuam sendo aceitos ???
+
+
 mesma coisa será em cargahoraria 
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/1e7e8ea8-a83f-4d13-a86f-5b19cfa00524)
