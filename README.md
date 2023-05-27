@@ -740,12 +740,21 @@ representacao
 
 
                               
+lendo os itens da lista
+---
+
+pegando todos os alunos da turma com uma repetição 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/585d7411-fc96-4e36-b6b5-de94f18a6203)
 
 
+e depois vamos imprimir 
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/f295dea5-d4ca-4720-b526-30f7d4fa2c84)
 
 
+observe ![image](https://github.com/leandroyoo/POOjava/assets/94478634/0055e9c5-be14-4a65-b518-55d269dca0b6)
 
-
+ele acessa em turma e pega o nome dos alunos 
 
 
 
