@@ -759,8 +759,120 @@ e pela variavel no metodo aluno ele vai percorrendo todo o array
 
 
 
+Associação de Objetos: muito para muitos
+---
+
+Disciplina e professor 
 
 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/8745db6e-abdb-4faf-9e60-e2f9b5e5644f)
+
+
+
+vamos arrumar a classe professor 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/2db7c2c9-b53a-4f41-8ae4-31d0d8841563)
+
+
+transformei os dados em private
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/159ed91e-607b-4a08-b851-01d797faba22)
+
+vamos colocar o metodo de aplicar avaliação em publico ![image](https://github.com/leandroyoo/POOjava/assets/94478634/bcfedf7c-c1c1-4286-9b22-47bd6e44df33)
+
+
+vamos colocar o metodo construtor da classe Professor para inilicializar as variaveis internas e atributos 
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/230326c5-5831-4b27-af7a-475606e4e4b4)
+
+
+exemplo nossa lista de disciplinas quando o professor for criado vamos criar a lista de disciplinas ![image](https://github.com/leandroyoo/POOjava/assets/94478634/d456c8ce-1947-4e66-8436-170225c173ec)
+
+
+agora vamos adicionar os 4 metodos para manipular o arrayList Disciplina
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/bcbb263c-210a-4cee-a1ea-db2d8779d10b)
+
+
+adiciono o get sets dos dados que nao são listas (formação e salario)
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/535c86a4-5a9d-414a-9ed3-a607a36cb52d)
+
+
+agora vamos em disciplina e declaramos elas como privada 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/6e191228-dbfb-41b3-ac27-6a706a62389a)
+
+
+
+vou criar uma classe de construtores que quando disciplina for criada possamos criar uma lista 
+de professores que lecionam aquela disciplina
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/287bdaed-510c-4c66-9c0f-9ce4be94c688)
+
+
+então criamos os quatro metodos de manipulaçao do array 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/482c54be-133f-4322-a502-838ace66c05a)
+
+Representação da Associação de Objetos: muito para muitos
+---
+
+jao leciona e muitas disciplinas
+e muitas disciplinas são lecionados por joao
+
+maria já leciona em uma disciplina e virse versa
+
+
+
+observe: 
+
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/e05173f1-c268-400e-ba8f-ff090c02c492)
+
+
+
+
+
+agora vamos criar uma nova classe ![image](https://github.com/leandroyoo/POOjava/assets/94478634/d4f2c6e4-6cb7-4799-b1c7-9f58e6a93424)
+
+
+teremos 
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/7e93351c-007e-4f38-8414-981a6d0b2b36)
+
+
+
+então criaremos as disciplinas 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/aa35000f-4f48-4daa-8a6b-38c3a7771cdb)
+
+
+
+então criaremos os  professores 
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/50fe21f5-90a4-48b7-a46f-577fd83a843b)
+
+
+assim teremos 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/ae43ba5a-e304-4984-8219-54438a89fc39)
+
+
+os relacionamentos 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/dc76aed8-9c6c-4594-835a-f71d61752c99)
+
+
+
+vamos ler as disiciplina do professor joao 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/cda4b77c-35d8-42b7-9985-16b9f05a0910)
+
+entao teremos ![image](https://github.com/leandroyoo/POOjava/assets/94478634/67efd6d9-fb8c-4013-8432-2ec19d8191e6)
+
+
+
+aqui vamos ler quantos professores fazerm portugues 
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/9735f0cb-303a-4ae0-b283-c8567d639011)
 
 
 
