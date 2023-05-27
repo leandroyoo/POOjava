@@ -359,7 +359,10 @@ só que agora teremos um erro
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/4b067266-89b7-4421-8bf6-eb234dc74157)
 
+ai entra os
 
+Métodos GET e SET
+----
 
 Representação Explicativa dos Métodos GET e SET
 
