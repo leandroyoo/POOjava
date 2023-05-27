@@ -349,6 +349,7 @@ observe
 
 pra que isso nao ocorra vamos tornar o tipo da classe privada ![image](https://github.com/leandroyoo/POOjava/assets/94478634/9582cc7a-1617-49c4-9680-d5013c7973cf)
 
+observe 
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/9fdb68c7-32a2-4536-87bf-fff4aea1d937)
 
