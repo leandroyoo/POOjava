@@ -307,7 +307,7 @@ então dentro de turma vamos ter uma lista de disciplinas
 
 
 
-Criação de Objetos 
+Criação de Objetos e Encapsulamento
 --
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/9b42c33d-3d6d-4819-b9b8-38098ce15ece)
@@ -334,6 +334,41 @@ eu tenho que ir na classe disciplina e declarar suas variaveis como public ![ima
 ai então o erro desaparece
 
 ![image](https://github.com/leandroyoo/POOjava/assets/94478634/0700d5fc-dd5b-447d-90aa-11bfff58ea1a)
+
+
+
+quando tentamos inserir um dado que esteja errado mas esteja no publico ela vai aceitar ![image](https://github.com/leandroyoo/POOjava/assets/94478634/3963a106-95dd-401f-a8a3-527ee6dd9f77)
+
+pois nao existe cargaHoraria negativa numa disciplina
+
+observe
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/ff81ff7b-cefb-40f0-ac84-20c0246ae09a)
+
+
+pra que isso nao ocorra vamos tornar o tipo da classe privada ![image](https://github.com/leandroyoo/POOjava/assets/94478634/9582cc7a-1617-49c4-9680-d5013c7973cf)
+
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/9fdb68c7-32a2-4536-87bf-fff4aea1d937)
+
+
+
+só que agora teremos um erro 
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/4b067266-89b7-4421-8bf6-eb234dc74157)
+
+
+
+Representação Explicativa dos Métodos GET e SET
+
+
+menina bonita
+
+amiga feia que ajuda com a busca dos dados
+
+kkkkkkkk
+
+![image](https://github.com/leandroyoo/POOjava/assets/94478634/4b8522cd-6ef5-4bca-9fcb-73dd28c6f124)
 
 
 
